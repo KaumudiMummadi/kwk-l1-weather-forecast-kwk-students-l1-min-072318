@@ -28,14 +28,8 @@ end
 
 
 def weather_hash(weather)
-  return weather [:city]
-    puts "The city is New York."
-  return weather [:description]
-    puts "The description is Partly Cloudy."
-  return weather [:temperature_farenheit]
-    puts "The temperature is 75."
+  return "The "
 end 
-
 
 
 
